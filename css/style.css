@@ -1,0 +1,36 @@
+main{
+  background-color: rgba(0, 0, 255, 0.1);
+  text-align: center;
+  padding-bottom: 30px;
+}
+h1{
+  padding: 30px;
+}
+figure{
+  background-color: white;
+  padding: 10px;
+}
+img{
+  max-width: 100%;
+  height: auto;
+}
+figcaption{
+  margin: 20px;
+}
+ul{
+  text-align: left;
+  max-width: 35vw;
+  margin: 0 auto 50px auto;
+}
+li{
+  margin: 10px;
+  font-size: 1.04em;
+}
+blockquote{
+  max-width: 600px;
+  font-style: italic;
+  margin: auto;
+}
+#link{
+  margin: auto;
+}
